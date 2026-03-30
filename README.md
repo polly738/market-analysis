@@ -9,7 +9,7 @@ you need on your system
 1.  [uv](https://docs.astral.sh/uv/).
 2.  [npm](https://www.npmjs.com/)
 3.  python 3.13
-4.  a .env with an api key to [open router](https://openrouter.ai/) OPEN_ROUTER_KEY=
+4.  a .env file with an api key to [open router](https://openrouter.ai/) OPEN_ROUTER_KEY=
     in the pwd of ./agent/.env
 5.  port 8080 open lsof -i:8080
 
