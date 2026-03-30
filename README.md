@@ -9,8 +9,8 @@ you need on your system
 1.  [uv](https://docs.astral.sh/uv/).
 2.  [npm](https://www.npmjs.com/)
 3.  a .env with an api key to [open router](https://openrouter.ai/) OPEN_ROUTER_KEY=
-    inside of ./agent/.env
-4.  port 8080 open
+    in the pwd of ./agent/.env
+4.  port 8080 open lsof -i:8080
 5.  run ./run-app.sh
 
 ## Architeture
